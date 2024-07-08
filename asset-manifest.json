@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biorisk-estimation/static/css/main.e951cc5d.css",
+    "main.js": "/biorisk-estimation/static/js/main.9ed71172.js",
+    "static/js/453.59f9da04.chunk.js": "/biorisk-estimation/static/js/453.59f9da04.chunk.js",
+    "index.html": "/biorisk-estimation/index.html",
+    "main.e951cc5d.css.map": "/biorisk-estimation/static/css/main.e951cc5d.css.map",
+    "main.9ed71172.js.map": "/biorisk-estimation/static/js/main.9ed71172.js.map",
+    "453.59f9da04.chunk.js.map": "/biorisk-estimation/static/js/453.59f9da04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e951cc5d.css",
+    "static/js/main.9ed71172.js"
+  ]
+}
